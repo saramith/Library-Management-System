@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1594033971 source:c:\users\kisha\desktop\library management project\common_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"general.h"
+
+1594034020 source:c:\users\kisha\desktop\library management project\faculty_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"general.h"
+
+1594033988 source:c:\users\kisha\desktop\library management project\librarian_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"general.h"
+
+1594033958 source:c:\users\kisha\desktop\library management project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"general.h"
+
+1594033946 source:c:\users\kisha\desktop\library management project\return_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"general.h"
+
+1594033913 source:c:\users\kisha\desktop\library management project\student_module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"general.h"
+
+1594040221 source:c:\users\kisha\desktop\library management project\fine module.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"general.h"
+
+1594034033 source:c:\users\kisha\desktop\library management project\due_date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"general.h"
+
+1594033919 c:\users\kisha\desktop\library management project\general.h
+

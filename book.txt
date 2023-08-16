@@ -1,0 +1,10 @@
+1 learning_python sara_jain 3 0 0
+2 c_programming jonathan_jones 4 0 0
+3 german_A1.1 suganthi 3 0 0
+4 learn_java lucas_scott 2 0 0
+5 mindshift adhithya 4 3 0
+6 html elizabeth_cooper 2 0 0
+7 learn_music_with_us peyton_sawyer 3 0 0
+8 english_language blair_waldrof 2 0 0
+9 digital_design christie_sajitha 4 0 0
+10 atomic_physics haley_james 3 0 0
